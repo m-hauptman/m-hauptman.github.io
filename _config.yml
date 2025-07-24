@@ -22,10 +22,10 @@ repository               : "m-hauptman/miriam-hauptman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpg"
+  avatar           : "headshot2.jpg"
   name             : "Miriam Hauptman"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
+  bio              : #
   location         : # empty
   employer         : # empty
   uri              : # URL
