@@ -9,7 +9,7 @@ author_profile: true
 
 Lai, M., Abrams, E., Bou Dargham, S., Fallon, J., Gegeura, R., Goldman, E., Hauptman, M., Parrish, A., Phillips, S., Reinoso, A., & Pylkkänen, L. (in press). Developmental changes in auditory evoked responses at different levels of linguistic processing: An MEG study. *Neuropsychologia.* 
 
-Hauptman, M., Keil, S.+, Landau, B., & Bedny, M. (2025). Learning visual appearance from language is mediated by causal intuitive theories. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society.* [pdf](/files/HauptmanKeilLandauBedny.pdf)
+Hauptman, M., Keil, S., Landau, B., & Bedny, M. (2025). Learning visual appearance from language is mediated by causal intuitive theories. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society.* [pdf](/files/HauptmanKeilLandauBedny.pdf)
 
 Hauptman, M., Elli, G., Pant, R., & Bedny, M. (2025). Neural specialization for ‘visual’ concepts emerges in the absence of vision. *Cognition, 257*, 106058. https://doi.org/10.1016/j.cognition.2024.106058 [pdf](/files/HauptmanElliPantBedny.pdf)
 
