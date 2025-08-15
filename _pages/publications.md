@@ -2,9 +2,9 @@
 permalink: /publications/
 title: "Publications"
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+# redirect_from: 
+#   - /publications/
+#   - /publications.html
 ---
 
 Hauptman, M., Keil, S.+, Landau, B., & Bedny, M. (2025). Learning visual appearance from language is mediated by causal intuitive theories. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society.* [pdf](/files/CV_August2025.pdf)
