@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD student in [Psychological & Brain Sciences](https://pbs.jhu.edu/people/graduate-students/) at Johns Hopkins University, advised by [Marina Bedny](https://bednylab.com/).
+I am a Postdoctoral Scholar in Linguistics at Stanford University, advised by [Cory Shain](https://climblab.org/).
 
-I use neural and behavioral measures to study how human concepts change with experience, including sensory experience (e.g., congenital blindness, deafness), cognitive expertise, cultural experience, and development. I am particularly interested in applying theories of conceptual development to the cognitive neuroscience of concepts.
+I use neural and behavioral measures to study the relationship between language and conceptual knowledge. I am particularly interested in how we extract *causal* information from language, and how this process is shaped by life experience, including cognitive expertise (e.g., medical expertise) and sensory experience (e.g., congenital blindness, deafness).
 
-Prior to graduate school, I studied the neural basis of language at [MIT](https://www.evlab.mit.edu/) and [NYU](https://wp.nyu.edu/neurolinglab/).
+Previously, I completed my PhD in Psychological & Brain Sciences at Johns Hopkins University, where I was advised by [Marina Bedny](https://bednylab.com/).
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
