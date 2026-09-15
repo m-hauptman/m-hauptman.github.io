@@ -25,11 +25,11 @@ author:
   avatar           : "headshot3.jpg"
   name             : "Miriam Hauptman"
   pronouns         : # example: "she/her"  
-  bio              : "5th Year PhD Student"
-  location         : "Johns Hopkins University"
+  bio              : "Postdoctoral Scholar"
+  location         : "Stanford University"
   employer         : # empty
   uri              : # URL
-  email            : "mhauptm1@jhu.edu" 
+  email            : "mhauptman at stanford.edu" 
 
   # Academic websites
   academia         : # URL
